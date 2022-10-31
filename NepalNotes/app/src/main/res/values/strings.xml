@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NepalNotes</string>
+    <string name="header">Hello Register Here</string>
+    <string name="UserName">Enter Your Name</string>
+    <string name="password"> Enter Password</string>
+    <string name="Email"> Enter Your Email</string>
+</resources>
